@@ -9,7 +9,7 @@
 
 - 💬 Ask me about : **Python , Data Structures and Algorithms , Pandas , Numpy , Supervised ML models , SQL , Statistics , BI Tools**
 
-- 📫 Reach me at : **adityakumarsingh@gmail.com**
+- 📫 Reach me at : **adityakumarsingh05446@gmail.com**
 
 - ⚡ Fun fact : **I turn conversation into funny codes.**
 
