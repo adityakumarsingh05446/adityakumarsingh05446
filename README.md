@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Data Scientist and Statistician from India</h3>
+<h3 align="center">A passionate Data Analytics Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumarsingh05446&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumarsingh05446" /> </p>
 
-- 🌱 I’m currently learning : **Machine Learning , Data Visualization , Deep Learning**
+- 🌱 I’m currently learning : **Machine Learning , Data Visualization and NLP**
 
 - 👯 I’m looking to collaborate on **Data Science and ML Projects.**
 
